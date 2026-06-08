@@ -1,4 +1,4 @@
-Import sqlite3
+import sqlite3
 from telebot import TeleBot, types
 import threading
 from flask import Flask
