@@ -1,9 +1,0 @@
-# SQLite database file
-digilocker.db
-
-# Environment variables file (agar aap use kar rahe hain)
-.env
-
-# Python cache files (ye apne aap banti hain, inhein upload nahi karna)
-__pycache__/
-*.pyc
